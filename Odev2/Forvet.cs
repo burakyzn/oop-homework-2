@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Odev2
 {
@@ -32,8 +29,8 @@ namespace Odev2
 
             if (PasSkor > 60)
                 return true;
-            else
-                return false;
+
+            return false;
 
         }
 
@@ -43,8 +40,8 @@ namespace Odev2
 
             if (GolSkor > 70)
                 return true;
-            else
-                return false;
+
+            return false;
         }
     }
 }
