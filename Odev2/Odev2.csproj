@@ -46,6 +46,7 @@
     <Compile Include="Forvet.cs" />
     <Compile Include="Futbolcu.cs" />
     <Compile Include="Kaleci.cs" />
+    <Compile Include="Mac.cs" />
     <Compile Include="OrtaSaha.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
