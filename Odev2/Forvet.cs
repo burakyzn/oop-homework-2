@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace Odev2
 {
     class Forvet:Futbolcu
