@@ -1,5 +1,4 @@
-﻿
-namespace Odev2
+﻿namespace Odev2
 {
     class Kaleci:Futbolcu
     {
